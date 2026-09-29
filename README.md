@@ -1,16 +1,13 @@
-## Hi there 👋
+# Nora Habrich — Finance × Data × AI
 
-<!--
-**norahabrich/norahabrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingénieure financière (ENSA Agadir · Sorbonne Paris Nord), certifiée AMF.
+Je construis des pipelines de données et des modèles d'IA appliqués à la finance :
+marchés, risque, analyse financière d'entreprise.
 
-Here are some ideas to get you started:
+### 🛠 Stack
+Python · SQL · R · Power BI · Machine Learning · Création d'agents IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Parcours
+Danone Paris · RAF en négoce international · Wafa Gestion · Certification AMF
+
+📫 [LinkedIn](https://www.linkedin.com/in/nora-habrich-2036661b2/) · Email : norahabrich2@gmail.com
