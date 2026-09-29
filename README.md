@@ -1,6 +1,6 @@
 # Nora Habrich — Finance × Data × AI
 
-Ingénieure financière (ENSA Agadir · Sorbonne Paris Nord), certifiée AMF.
+Ingénieure financière (Sorbonne Paris Nord · ENSA Agadir), certifiée AMF.
 Je construis des pipelines de données et des modèles d'IA appliqués à la finance :
 marchés, risque, analyse financière d'entreprise.
 
@@ -8,6 +8,6 @@ marchés, risque, analyse financière d'entreprise.
 Python · SQL · R · Power BI · Machine Learning · Création d'agents IA
 
 ### 💼 Parcours
-Danone Paris · RAF en négoce international · Wafa Gestion · Certification AMF
+Digital Finance Analysts (Danone Paris) · RAF en négoce international (OMEGA NEGOCE) · Asset Management Analysts (Wafa Gestion) · Certification AMF
 
 📫 [LinkedIn](https://www.linkedin.com/in/nora-habrich-2036661b2/) · Email : norahabrich2@gmail.com
