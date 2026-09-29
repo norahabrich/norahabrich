@@ -1,6 +1,6 @@
 # Nora Habrich — Finance × Data × AI
 
-Ingénieure financière (Sorbonne Paris Nord · ENSA Agadir), certifiée AMF.
+Ingénieure financière (Sorbonne Paris · ENSA Agadir), certifiée AMF.
 Je construis des pipelines de données et des modèles d'IA appliqués à la finance :
 marchés, risque, analyse financière d'entreprise.
 
