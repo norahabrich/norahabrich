@@ -1,4 +1,5 @@
-# Nora Habrich — Finance × Data × AI
+
+<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d156ed2e-a579-46f7-af61-586a90e3dae9" />
 
 Ingénieure financière (Sorbonne Paris · ENSA Agadir), certifiée AMF.
 Je construis des pipelines de données et des modèles d'IA appliqués à la finance :
