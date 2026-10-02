@@ -1,14 +1,34 @@
 
 <img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/d156ed2e-a579-46f7-af61-586a90e3dae9" />
 
-Ingénieure financière (Sorbonne Paris · ENSA Agadir), certifiée AMF.
-Je construis des pipelines de données et des modèles d'IA appliqués à la finance :
-marchés, risque, analyse financière d'entreprise.
+Bridging finance and data: I build Python and SQL pipelines and models for time series analysis, forecasting, and applied machine learning, turning data into better financial decisions.
 
-### 🛠 Stack
-Python · SQL · R · Power BI · Machine Learning · Création d'agents IA
+## What I work with
 
-### 💼 Parcours
-Digital Finance Analysts (Danone Paris) · RAF en négoce international (OMEGA NEGOCE) · Asset Management Analysts (Wafa Gestion) · Certification AMF
+* **Python:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Anthropic API, data pipelines & automation
+* **SQL**
+* **R**
+* **Tableau** & **Power BI**
+* **Machine learning:** classification, regression, feature engineering, model evaluation
+* **Time series:** analysis, forecasting & financial modeling
+* **Data visualization & exploratory data analysis (EDA)**
+
+## Experience
+
+* **Digital Finance Analyst** — Danone, Paris
+* **Head of Administration & Finance** — OMEGA NÉGOCE, international trading
+* **Asset Management Analyst** — Wafa Gestion
+* **Data Science** — Moroccan General Tax Directorate (DGI)
+* **AMF Certification**
+
+## Focus areas
+
+* **Financial data analysis:** turning market, accounting and business data into actionable insights
+* **Time series forecasting:** demand, revenue and financial market forecasting
+* **Predictive modeling:** applied machine learning for finance and business decisions
+* **Data pipelines & automation:** building clean, reliable data workflows
+* **Applied econometrics:** statistical modeling of economic and financial data
+
+## Contact
 
 📫 [LinkedIn](https://www.linkedin.com/in/nora-habrich-2036661b2/) · Email : norahabrich2@gmail.com
