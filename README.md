@@ -5,7 +5,7 @@ Bridging finance and data: I build Python and SQL pipelines and models for time 
 
 ## What I work with
 
-* **Python:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Anthropic API, data pipelines & automation
+* **Python:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit, Anthropic API, data pipelines & automation
 * **SQL**
 * **R**
 * **Tableau** & **Power BI**
