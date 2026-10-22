@@ -6,8 +6,11 @@ Bridging finance and data: I build Python and SQL pipelines and models for time 
 ## What I work with
 
 * **Python:** pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Streamlit, Anthropic API, data pipelines & automation
+* **Pyspark**
 * **SQL**
 * **R**
+* **SAS**
+* **WPS(notion)**
 * **Tableau** & **Power BI**
 * **Machine learning:** classification, regression, feature engineering, model evaluation
 * **Time series:** analysis, forecasting & financial modeling
