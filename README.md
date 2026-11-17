@@ -10,7 +10,6 @@ Bridging finance and data: I build Python and SQL pipelines and models for time 
 * **SQL**
 * **R**
 * **SAS**
-* **WPS(notion)**
 * **Tableau** & **Power BI**
 * **Machine learning:** classification, regression, feature engineering, model evaluation
 * **Time series:** analysis, forecasting & financial modeling
