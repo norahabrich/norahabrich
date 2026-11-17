@@ -17,7 +17,7 @@ Bridging finance and data: I build Python and SQL pipelines and models for time 
 
 ## Experience
 
-* **Digital Finance Analyst / AUTOMATISATION** — Danone, Paris
+* **Digital Finance Analyst** — Danone, Paris
 * **Administration & Finance** — OMEGA NÉGOCE, international trading
 * **Asset Management Analyst** — Wafa Gestion
 * **Data Science** — Moroccan General Tax Directorate (DGI)
