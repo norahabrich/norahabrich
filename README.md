@@ -9,14 +9,6 @@
 <a href="mailto:norahabrich2@gmail.com"><img src="https://img.shields.io/badge/Email-1D4ED8?style=for-the-badge" alt="Email" /></a>
 </p>
 
-
-
-<p align="center">
-<img src="https://img.shields.io/badge/Danone-Digital_Finance_%26_AI_Automation_Analyst-BAE6FD?style=for-the-badge&labelColor=0B1220" alt="Danone, Digital Finance &amp; AI Automation Analyst" />
-<img src="https://img.shields.io/badge/Wafa_Gestion-Quantitative_%26_Fixed_Income_Analyst-BAE6FD?style=for-the-badge&labelColor=0B1220" alt="Wafa Gestion, Quantitative &amp; Fixed Income Analyst" />
-<img src="https://img.shields.io/badge/DGI-Data_Science_Tax_Fraud-BAE6FD?style=for-the-badge&labelColor=0B1220" alt="DGI, Data Science Tax Fraud" />
-</p>
-
 ## 🧬 about
 
 ```python
